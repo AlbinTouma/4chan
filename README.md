@@ -10,10 +10,23 @@ These discussions offer raw, unfiltered insights into incidents, potentially rev
 
 ![screenshot](./flashback.png)
 
-Flashback has a similar structure to forums like 4Chan. The site has boards that contain threads. Each thread is a discussion on a topic and contains posts and replies.
+Flashback is similar to forums like 4Chan. The site has boards that contain threads. Each thread is a discussion on a topic and contains posts and replies.
 In the future the crawler will collect entities, events, and links from posts and replies on each thread.
 
-## Output
+## Crime Data
+
+Crime related data:
+
+- Crime
+- Location(s) mentioned
+- Date(s) mentioned
+
+Metadata:
+
+- Public interest in crime (replies/views)
+- Sentiment analysis
+
+## Roadmap
 
 So far the project has crawled one board and collected metadata on 66,000 threads posted between 2007-2005. 
 - Rank threads by probability of crime related data based on thread title.
