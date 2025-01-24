@@ -188,5 +188,5 @@ func main(){
 	})
 
 
-  c.Visit("https://www.flashback.org/f358-forsvunna-personer-50121")//"https://www.flashback.org/f249-aktuella-brott-och-kriminalfall-50121")
+  c.Visit("https://www.flashback.org/f249-aktuella-brott-och-kriminalfall-50121")
 }
