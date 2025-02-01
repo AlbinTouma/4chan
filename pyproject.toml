@@ -1,0 +1,22 @@
+[project]
+name = "signal-sifter"
+version = "0.1.0"
+description = "Sift through crime data on online forums and identify incidents and entities with gpt4"
+authors = [
+    {name = "Albin Touma",email = "albin.touma@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=2.2.3,<3.0.0)",
+    "gpt4all (>=2.8.2,<3.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "asyncio (>=3.4.3,<4.0.0)",
+    "httpx (>=0.28.1,<0.29.0)",
+    "nest-asyncio (>=1.6.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
