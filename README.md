@@ -1,6 +1,6 @@
-# Signal Sifter
+# Crime-Sifter
 
-Sweden faces a growing crime epidemic, but public access to detailed crime data remains limited despite extensive media coverage, particularly of gang violence. Signal-Sifter seeks to address this gap by using alternative data sources to map crimes and their locations.
+Sweden faces a growing crime epidemic, but public access to detailed crime data remains limited despite extensive media coverage, particularly of gang violence. Crime-Sifter seeks to address this gap by using alternative data sources to map crimes and their locations.
 
 One of the key resources explored is Flashback Forum, a popular Swedish platform where users discuss crime, share media links, and analyze court cases. 
 
